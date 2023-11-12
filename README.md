@@ -9,7 +9,6 @@ b. Current status of the data.
 - not done
 
 c. Data dictionary in a table format.
-- 
 
 d. To-do list (if needed)
 
